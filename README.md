@@ -156,17 +156,6 @@ Predicting meaningful **crypto price movements** is a high-noise, high-risk task
 
 ---
 
-## 🛠️ Tools and Libraries
-
-| Tool                   | Purpose                     |
-| ---------------------- | --------------------------- |
-| Python                 | Main programming language   |
-| `sklearn`              | ML algorithms and metrics   |
-| `keras` / `TensorFlow` | Neural network training     |
-| `pandas`               | Data preprocessing          |
-| `yfinance`             | Data source (crypto prices) |
-| `SMOTE`                | Class balancing             |
-| `matplotlib`           | Visualization               |
 
 ---
 
